@@ -1,8 +1,8 @@
-# Algeo01-19149
+Analisis Program Pengolahan Matriks
+Mata Kuliah Aljabar Linear
 
-Untuk Menjalankan Program silakan Jalankan Menu.class yang berada pada folder bin. (Penting, Program ini dicompile menggunakan JDK 14.0.1)
-Program ini berfungsi untuk Menyelesaikan SPL, Menghitung Determinan Matriks, dan Menghitung invers matriks.
-Input yang diterima program berasal dari keyboard.
-
-Saat program dijalankan (dengan command "java Menu") akan tampil menu utama dimana user dapat memilih proses perhitungan apa yang ingin dilakukan.
-Program berhenti berjalan ketika user memilih untuk keluar (menu no. 6)
+Kelompok 2 - 2B D4 Teknik Informatika:
+1. Helsa Alika Femiani - 211524044
+2. Nayara Saffa - 211524052
+3. Rachmat Purwa Saputra - 21154054
+4. Rahma Alia Latifa - 211524055
